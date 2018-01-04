@@ -1,0 +1,34 @@
+
+
+.type.storage,.type.storage.declaration, .storage.class.modifier {
+    font-family: 'script 12 pitch bt';
+    font-size: 1.1em;
+  }
+  
+  .type.storage.arrow.function {
+    font-family: 'Fira Code'
+  }
+  .mtki{
+    font-family: 'Script12 BT';
+    font-size: 1.15em;
+  }
+  .decorator.name, .decorator.punctuation:not(.block), .import.keyword {
+      font-family: 'Script12 BT';
+      font-size: 1.1em;
+      color: #68f39b!important;
+  }
+  .attribute-name {
+      font-family: 'Script12 BT';
+      font-size: 1.1em;
+  }
+  
+  .html.quoted.double {
+      color: #a6f3a6!important;
+  }
+  .comment {
+      color: #c5c5fd!important;
+  }
+  .comment:not(.punctuation) {
+      font-family: 'Script12 BT';
+      font-size: 1.5em;
+  }
