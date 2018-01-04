@@ -1,0 +1,71 @@
+{
+    "workbench.colorTheme": "An Old Hope",
+    "git.enableSmartCommit": true,
+    "window.zoomLevel": 1,
+    "editor.snippetSuggestions": "top",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "editor.matchBrackets": false,
+    "subtleBrackets.styles": {
+        "global": {
+            "color": "gold",
+            "font": "italic bold ariel",
+            "borderWidth": "1px",
+            "borderStyle": "none none solid none"
+        }
+    },
+    "sync.gist": "",
+    "sync.lastUpload": "2017-12-14T09:22:53.883Z",
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastDownload": "",
+    "sync.forceDownload": false,
+    "sync.anonymousGist": false,
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "cSpell.userWords": [
+        "Etcd",
+        "aigle",
+        "consts",
+        "djsv",
+        "guid",
+        "hkube",
+        "jobid",
+        "maty",
+        "omitby",
+        "taskid",
+        "uuidv",
+        "zisserman"
+    ],
+    "editor.formatOnSave": false,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    // "mocha.options": {
+    //     "compilers": {
+    //         "ts": "ts-node/register"
+    //     }
+    // },
+    // "mocha.requires": [
+    //     "ts-node/register"
+    // ],
+    "workbench.panel.location": "bottom",
+    "mocha.glob": "**/*test.js",
+    "python.formatting.provider": "autopep8",
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        {
+            "language": "html",
+            "autoFix": true
+        }
+    ],
+    "eslint.autoFixOnSave": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "vscode_custom_css.imports": [
+    "file:///home/matyz/dev/vscode/styles.css"
+        
+    ]
+      
+}
