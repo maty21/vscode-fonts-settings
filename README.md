@@ -14,8 +14,8 @@ instructions:
 linux add files to 
 1.mkdir -p ~/.local/share/fonts
 
-2.fc-cache -f
-3. in Custom CSS and JS Loader
+2.fc-cache -f   
+3. in Custom CSS and JS Loader    
 #for vs code:
 sudo chown -R $(whoami) /usr/share/code
 #for vs code insiders:
